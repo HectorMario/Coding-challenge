@@ -1,0 +1,67 @@
+body {
+        background-image:url('C:/Users/39375/Desktop/CODING CHALLENGE/background.jpg');
+        font-family: "Poppins", sans-serif;
+        background-size: cover;
+        color: #fff;
+    }
+
+   
+.Container{
+    background-color: rgba(0, 0, 0, 0.541);
+    width: 900px;
+    border-radius: 30px;
+    margin: auto;
+    padding: 30px;
+}
+
+header > h1{
+    text-align: center;
+    color: #00FF00;
+  }
+
+.logo{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  }  
+nav{
+    background-color: #00FF00;
+    width: 100%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+    
+}
+
+main > h2{
+  display: inline-block;
+}
+
+main > span {
+  display: block;
+}
+    
+
+.container1{
+    background-color: orange;
+    width: 50%;
+  }
+  
+.container2{
+    background-color: #00FF00;
+    width: 80%;
+  }
+  
+.container3{
+    background-color: #C34632;
+    width: 20%;
+  }
+  
+.container1, .container2, .container3 {
+   border-radius: 5px;
+   height: 25px;
+  }
+
+
